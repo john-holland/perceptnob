@@ -1,0 +1,15 @@
+{
+  "name": "perceptnob",
+  "version": "1.0.0",
+  "description": "perceptron implementation",
+  "main": "perceptnob.js",
+  "scripts": {
+    "test": "node perceptnob.js",
+    "dev": "node perceptnob.js"
+  },
+  "author": "john holland",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
